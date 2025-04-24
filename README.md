@@ -1,9 +1,9 @@
-# CowSwap Batch Statistics
+# CoWSwap Batch Statistics
 
 
 ## Data
 
-The [data](./cowswap_batch.csv.zip) is from the anonymous Dune query: https://dune.com/queries/5028097, which contains all executed batches through CoWSwap from January 2024 to January 2025. This dataset includes 808,096 batches and a total of 1,147,674 orders, as some batches contain multiple orders.
+The [data](./cowswap_batch.csv.zip) is from the anonymous Dune query: https://dune.com/queries/5028097, which contains all executed CoWSwap batches from January 2024 to January 2025. This dataset includes 808,096 batches and a total of 1,147,674 orders (each batch may contain multiple orders).
 
 ## Batch Statistics
 
