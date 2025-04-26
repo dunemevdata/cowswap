@@ -42,7 +42,6 @@ def percentage_below_threshold(threshold):
     return count / len(token_counts) * 100
 
 
-print(len(token_counts))
 for threshold in [2, 3, 4, 5, 6, 7, 8, 9]:
     pct = percentage_below_threshold(threshold)
     print(f"{pct:.1f}% of the batches have ≤ {threshold} tokens")
